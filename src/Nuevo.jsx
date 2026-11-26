@@ -16,7 +16,7 @@ function Nuevo()
 
     return(
         <div>
-            <h1>Contador de Lizeth Alma Huanca Gutierrez</h1>
+            <h1>Contador de andre yamil huaygua cordero</h1>
             <h2>{contador}</h2>
             <button onClick={sumar}>
                 Click para aumentar el contador
